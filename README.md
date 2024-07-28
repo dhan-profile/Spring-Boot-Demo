@@ -1,4 +1,4 @@
-# Spring Boot Hello World Example
+# Spring Boot Demo App
 Get started with the Spring Boot application, a hello world example.
 
 
